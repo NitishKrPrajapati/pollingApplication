@@ -1,10 +1,11 @@
 {
   "development": {
     "username": "root",
-    "password": "Demon@1021",
-    "database": "poll_app_db",
-    "host": "localhost",
-    "dialect": "mysql"
+    "password": "dDCFBdd44A42GdBG6-GecfC1H-1fEGCa",
+    "database": "railway",
+    "host": "roundhouse.proxy.rlwy.net",
+    "dialect": "mysql",
+    "port":"38591"
   },
   "test": {
     "username": "root",
